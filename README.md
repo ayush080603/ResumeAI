@@ -18,7 +18,7 @@
      <b>ResumeAI</b> is designed to make resume creation effortless. With the help of AI, users can generate, update, and customize their resumes, ensuring they stand out to potential employers. The application is secure, user-friendly, and highly customizable.
   </div>
   <br />
-  <a href="https://resume-ai-app.vercel.app/"><strong>➥ Visit ResumeAI App</strong></a>
+  <a href="https://resume-ai-gray-nine.vercel.app/"><strong>➥ Visit ResumeAI App</strong></a>
 </div>
 
 ## <a name="features">✨ Features</a>
@@ -37,7 +37,7 @@
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- **Frontend:** Next.js 14
+- **Frontend:** Next.js 15
 
 - **Authentication:** Clerk
 
@@ -64,7 +64,7 @@ Make sure you have the following installed on your machine:
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/Mahmud0808/ResumeAI.git
+git clone https://github.com/ayush080603/ResumeAI
 cd ResumeAI
 ```
 
@@ -114,14 +114,8 @@ Contributions are welcome! Here's how you can contribute:
 - Push to the branch (`git push origin feature/AmazingFeature`).
 - Open a pull request.
 
-## 📢 Notice
-
-As of February 2025, the user limit of 500 has been exceeded. To test the website, you can log in using the following account:
-- Email: test@mail.com
-- Password: test@@123456
-
 ## 📬 Contact
 
 Wanna reach out to me? DM me at 👇
 
-Email: mahmudul15-13791@diu.edu.bd
+Email: sinhaayush0806@gmail.com
